@@ -1,2 +1,2 @@
 print("CAT")
-print("Nahhnahh")
+print("Nahhnahhh")
